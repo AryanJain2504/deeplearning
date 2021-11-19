@@ -1,2 +1,2 @@
-# Machine_Learning
-Machine Learning Templates
+# Deep_Learning
+Deep Learning Templates
